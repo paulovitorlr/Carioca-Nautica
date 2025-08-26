@@ -50,7 +50,7 @@ nav div a img {
   font-family: "Roboto Slab", serif;
   font-weight: 700;
   font-size: 32px;
-  color: #1a3c5e;
+  color: #34596f;
   margin-bottom: 20px;
 }
 
@@ -74,7 +74,7 @@ nav div a img {
 .cta-button {
   display: inline-block;
   padding: 12px 24px;
-  background-color: #1a3c5e;
+  background-color: #34596f;
   color: #fff;
   text-decoration: none;
   border-radius: 5px;
@@ -95,6 +95,15 @@ nav div a img {
 
 .card-produtos {
   margin: 80px 380px 60px 380px;
+}
+
+footer {
+  background-color: #34596f;
+}
+
+.mexendo {
+  width: 250px;
+  height: 250px;
 }
 
 body {

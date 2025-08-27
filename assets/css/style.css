@@ -100,10 +100,24 @@ nav div a img {
 footer {
   background-color: #34596f;
 }
-
-.mexendo {
-  width: 250px;
-  height: 250px;
+footer .container-footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+footer .text-footer {
+  font-family: "Roboto Slab", serif;
+  font-weight: 700;
+  font-size: 32px;
+  color: #fff;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+footer .tamanho img {
+  width: 200px;
+  height: 200px;
+  margin: 40px;
 }
 
 body {
